@@ -1,2 +1,2 @@
 # Stockerr
-A Python app made using Kivy and KivyMD framework
+A Stock market app made using Python.
